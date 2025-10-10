@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is salma rami and I'm a developer full stack</p>
+<p align="left">My name is salma rami and I'm a  full stack web developer</p>
 
 ###
 
@@ -10,16 +10,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+<div align="center">
+  <a href="www.linkedin.com/in/salma-rami-55a11a349" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="ramisalma185@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
 </div>
 
 ###
 
-<h2 align="left">languages & tools I have placed my hands on</h2>
+<h2 align="center">languages & tools I have placed my hands on</h2>
 
 ###
 
@@ -48,7 +52,13 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
   <img width="25" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="48" alt="jquery logo"  />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=redux" height="48" alt="redux logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="48" alt="styledcomponents logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo"  />
   <img width="25" />
@@ -84,17 +94,15 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=discord" height="48" alt="discord logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="48" alt="jquery logo"  />
-  <img width="25" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=redux" height="48" alt="redux logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" alt="stackoverflow logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="48" alt="styledcomponents logo"  />
-  <img width="25" />
   <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
 </div>
+
+###
+
+<p align="center">github status</p>
 
 ###
