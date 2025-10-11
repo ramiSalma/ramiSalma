@@ -103,9 +103,23 @@
 
 ###
 
-<p align="center">github status</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisalma&show_icons=true&locale=en&layout=compact" alt="ramisalma" /></p>
+## 🌙 GitHub Stats 2025
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramisalma&show_icons=true&locale=en" alt="ramisalma" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramisalma&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats 2025" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ramisalma&theme=github-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak 2025" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramisalma&theme=github-compact&area=true&hide_border=false" alt="GitHub activity graph 2025" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisalma&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages 2025" />
+</p>
+
 
 ###
