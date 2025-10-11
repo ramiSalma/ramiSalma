@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="center">languages & tools I have placed my hands on</h2>
+<h2 align="center" style="color: #FB33BD;">languages & tools I have placed my hands on</h2>
 
 ###
 
