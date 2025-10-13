@@ -1,6 +1,6 @@
 <!-- 🌌 Neon Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/pYyJ3pB.gif](https://img.freepik.com/free-vector/colorful-neon-frame-design_23-2149092625.jpg?semt=ais_hybrid&w=740&q=80)" alt="Neon Banner" width="100%" style="border-radius:20px;" />
+  <img src="https://img.freepik.com/free-vector/colorful-neon-frame-design_23-2149092625.jpg?semt=ais_hybrid&w=740&q=80" alt="Neon Banner" width="100%" style="border-radius:20px;" />
 </p>
 
 <!-- 💫 Intro -->
