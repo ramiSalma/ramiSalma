@@ -43,8 +43,9 @@ Coding is not just syntax — it’s <em>digital art</em>.
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,php,laravel,html,css,tailwind,bootstrap,nodejs,express,python,java,cpp,mysql,mongodb,git,github,vscode,docker,linux,figma,Canva,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,php,laravel,html,css,tailwind,bootstrap,nodejs,express,python,java,cpp,c,mysql,mongodb,git,github,vscode,docker,linux,figma,canva,postman&perline=8" />
 </div>
+
 
 ---
 
