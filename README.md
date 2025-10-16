@@ -1,7 +1,5 @@
 <!-- 🌌 Neon Banner -->
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/colorful-neon-frame-design_23-2149092625.jpg?semt=ais_hybrid&w=740&q=80" alt="Neon Banner" width="100%" style="border-radius:20px;" />
-</p>
+
 
 <!-- 💫 Intro -->
 <h1 align="center" style="color:#00ffff; text-shadow:0 0 20px #00ffff, 0 0 40px #00ffff;">
