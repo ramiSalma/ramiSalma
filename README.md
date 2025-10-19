@@ -72,6 +72,4 @@ Coding is not just syntax — it’s <em>digital art</em>.
 💻 “Code with creativity, commit with passion, and push your dreams to GitHub.”
 </h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/Z9b3BvV.gif" width="250" alt="Neon Divider" />
-</p>
+
