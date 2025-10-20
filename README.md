@@ -67,9 +67,6 @@ Coding is not just syntax — it’s <em>digital art</em>.
 
 ---
 
-<!-- ✨ Quote -->
-<h3 align="center" style="color:#ff66ff; text-shadow:0 0 20px #ff66ff;">
-💻 “Code with creativity, commit with passion, and push your dreams to GitHub.”
-</h3>
+
 
 
