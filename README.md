@@ -49,7 +49,7 @@ Coding is not just syntax — it’s <em>digital art</em>.
 
 <!-- 🌙 Stats -->
 <h2 align="center" style="color:#00ffff; text-shadow:0 0 10px #00ffff;">
-🌙 GitHub Stats
+  GitHub Stats
 </h2>
 
 <p align="center">
