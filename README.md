@@ -1,5 +1,7 @@
 <!-- 🌌 Neon Banner -->
-
+<p align="center">
+  <img src="![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/14481d3f-4f6e-41c7-a76f-35e13f9ccc6d)" />
+</p>
 
 <!-- 💫 Intro -->
 <h1 align="center" style="color:#00ffff; text-shadow:0 0 20px #00ffff, 0 0 40px #00ffff;">
