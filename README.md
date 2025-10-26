@@ -101,5 +101,10 @@ Made with ❤️ by <strong>Salma Rami</strong>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ffff&color_dots=#444444,#888888,#aaaaaa,#00ffff,#00ffcc"
+    width="100%"
+    alt="snake animation"
+  />
 </p>
+
