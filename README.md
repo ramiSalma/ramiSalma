@@ -1,6 +1,6 @@
 <!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14481d3f-4f6e-41c7-a76f-35e13f9ccc6d" width="250" alt="Salma Rami Logo" />
+  <img src="https://github.com/user-attachments/assets/14481d3f-4f6e-41c7-a76f-35e13f9ccc6d" alt="Salma Rami Logo" />
 </p>
 
 <h1 align="center" style="color:#00ffff; text-shadow:0 0 25px #00ffff, 0 0 50px #00ffff;">
