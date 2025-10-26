@@ -69,21 +69,8 @@ Coding is not just syntax — it’s <em>digital art</em>.
 
 <!-- 🐍 Snake Game Section -->
 
-<div align="center">
-  <a href="www.linkedin.com/in/salma-rami-55a11a349" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <a href="ramisalma185@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
-</div>
 
-<p align="center" style="color:#00ff00; font-size:16px;">
-I built a simple **Snake game** to sharpen my JavaScript skills.  
-Control the snake with arrow keys and try to beat your high score! 🎮
-</p>
+
 
 <p align="center">
   <a href="https://your-snake-game-link.com" target="_blank">
