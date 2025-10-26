@@ -1,100 +1,105 @@
+<!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14481d3f-4f6e-41c7-a76f-35e13f9ccc6d" />
+  <img src="https://github.com/user-attachments/assets/14481d3f-4f6e-41c7-a76f-35e13f9ccc6d" width="250" alt="Salma Rami Logo" />
 </p>
 
-<!-- 💫 Intro -->
-<h1 align="center" style="color:#00ffff; text-shadow:0 0 20px #00ffff, 0 0 40px #00ffff;">
-💫 Hey 👋 What’s up?
+<h1 align="center" style="color:#00ffff; text-shadow:0 0 25px #00ffff, 0 0 50px #00ffff;">
+💫 Hey there, I’m <span style="color:#ff99ff;">Salma Rami</span> 👋
 </h1>
 
-<p align="center" style="color:#ff99ff; text-shadow:0 0 10px #ff00ff, 0 0 20px #ff00ff; font-size:18px; max-width:700px;">
-I'm <strong style="color:#ffffff; text-shadow:0 0 15px #ff00ff;">Salma Rami</strong> — a <span style="color:#00ffff; text-shadow:0 0 10px #00ffff;">Full Stack Web Developer</span> who blends logic, design, and a hint of chaos to craft interactive, beautiful, and functional web experiences ✨  
-Coding is not just syntax — it’s <em>digital art</em>.
+<p align="center" style="color:#e0e0e0; font-size:17px; max-width:750px; margin:auto; line-height:1.7;">
+I’m a <strong style="color:#00ffff; text-shadow:0 0 12px #00ffff;">Full Stack Web Developer</strong>  
+who mixes <em>logic</em>, <em>design</em>, and a spark of <em>chaos</em> to craft elegant, interactive, and user-driven digital experiences.  
+Code is my paintbrush, and the browser is my canvas 🎨
 </p>
 
 ---
 
-<!-- 🌐 Social Links -->
-<h2 align="center" style="color:#00ffff; text-shadow:0 0 10px #00ffff;">
+<!-- 🌐 SOCIAL LINKS -->
+<h2 align="center" style="color:#00ffff; text-shadow:0 0 15px #00ffff;">
 🌐 Connect with Me
 </h2>
 
-<p align="center">
+<p align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/salma-rami-55a11a349" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="38" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
   </a>
   <a href="mailto:ramisalma185@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="38" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
   </a>
   <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="38" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="38"/>
   </a>
   <a href="https://codepen.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=000000&logoColor=white&style=for-the-badge" height="38" />
+    <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" height="38"/>
   </a>
 </p>
 
 ---
 
-<!-- ⚙️ Tech Stack -->
+<!-- ⚙️ TECH STACK -->
 <h2 align="center" style="color:#ff00ff; text-shadow:0 0 20px #ff00ff;">
-⚙️ Languages & Tools I Use
+⚙️ Languages & Tools
 </h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,php,laravel,html,css,tailwind,bootstrap,nodejs,express,python,java,cpp,c,mysql,mongodb,git,github,vscode,docker,linux,figma,canva,postman&perline=8" />
-</div>
-
----
-
-<!-- 🌙 GitHub Stats -->
-<h2 align="center" style="color:#00ffff; text-shadow:0 0 10px #00ffff;">
-📊 GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramisalma&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=ramisalma&theme=tokyonight&hide_border=false" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramisalma&theme=tokyo-night&area=true&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisalma&show_icons=true&layout=compact&theme=tokyonight" />
+<p align="center" style="margin:20px 0;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,php,laravel,nodejs,express,python,java,cpp,c,mysql,mongodb,git,github,vscode,docker,linux,figma,canva,postman&perline=9" />
 </p>
 
 ---
 
-<!-- 🐍 Snake Game Section -->
+<!-- 📊 GITHUB STATS -->
+<h2 align="center" style="color:#00ffff; text-shadow:0 0 15px #00ffff;">
+📊 GitHub Stats & Activity
+</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramisalma&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ramisalma&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramisalma&theme=tokyo-night&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisalma&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+<!-- 🐍 SNAKE GAME -->
+<h2 align="center" style="color:#00ffcc; text-shadow:0 0 20px #00ffcc;">
+🐍 Play with My GitHub Snake
+</h2>
 
 <p align="center">
   <a href="https://your-snake-game-link.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Play Snake&logo=javascript&label=&color=4CAF50&logoColor=white&style=for-the-badge" height="38" />
+    <img src="https://img.shields.io/badge/Play%20Now-%234CAF50.svg?style=for-the-badge&logo=javascript&logoColor=white" height="38"/>
   </a>
 </p>
 
 ---
 
-<!-- ✨ Fun Features -->
+<!-- ✨ FUN FACTS -->
 <h2 align="center" style="color:#ffcc00; text-shadow:0 0 15px #ffcc00;">
-✨ Fun Features
+✨ Fun Features & Highlights
 </h2>
 
-<ul style="color:#ffffff; font-size:16px; max-width:700px; margin:auto; line-height:1.8;">
-  <li>💻 Interactive GitHub stats with streak tracking.</li>
-  <li>🎨 Neon-themed portfolio showcasing creative coding skills.</li>
-  <li>🚀 Responsive web design using Tailwind & Bootstrap.</li>
-  <li>🕹️ Fun mini-projects like Snake, Tic-Tac-Toe, and other JS games.</li>
-  <li>🤝 Always open to collaborate on exciting projects.</li>
+<ul style="color:#ffffff; font-size:16px; max-width:750px; margin:auto; line-height:1.8;">
+  <li>💻 Dynamic GitHub stats with streak tracking.</li>
+  <li>🎨 Neon-themed visuals reflecting my creative coding energy.</li>
+  <li>🚀 Responsive, accessible designs powered by Tailwind & Bootstrap.</li>
+  <li>🕹️ Mini JS games like Snake, Tic-Tac-Toe & interactive widgets.</li>
+  <li>🤝 Always open for collaboration on cool projects.</li>
 </ul>
 
 ---
 
-<p align="center" style="color:#ff99ff; text-shadow:0 0 10px #ff00ff;">
+<p align="center" style="color:#ff99ff; text-shadow:0 0 10px #ff00ff; margin-top:30px;">
 Made with ❤️ by <strong>Salma Rami</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
 </p>
