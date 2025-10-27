@@ -68,16 +68,7 @@ Code is my paintbrush, and the browser is my canvas 🎨
 
 ---
 
-<!-- 🐍 SNAKE GAME -->
-<h2 align="center" style="color:#00ffcc; text-shadow:0 0 20px #00ffcc;">
-🐍 Play with My GitHub Snake
-</h2>
 
-<p align="center">
-  <a href="https://your-snake-game-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Now-%234CAF50.svg?style=for-the-badge&logo=javascript&logoColor=white" height="38"/>
-  </a>
-</p>
 
 ---
 
