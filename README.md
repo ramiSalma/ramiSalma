@@ -66,14 +66,6 @@ Code is my paintbrush, and the browser is my canvas 🎨
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisalma&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
-
-
-
----
-
-<!-- ✨ FUN FACTS -->
-
 
 ---
 
