@@ -73,17 +73,7 @@ Code is my paintbrush, and the browser is my canvas 🎨
 ---
 
 <!-- ✨ FUN FACTS -->
-<h2 align="center" style="color:#ffcc00; text-shadow:0 0 15px #ffcc00;">
-✨ Fun Features & Highlights
-</h2>
 
-<ul style="color:#ffffff; font-size:16px; max-width:750px; margin:auto; line-height:1.8;">
-  <li>💻 Dynamic GitHub stats with streak tracking.</li>
-  <li>🎨 Neon-themed visuals reflecting my creative coding energy.</li>
-  <li>🚀 Responsive, accessible designs powered by Tailwind & Bootstrap.</li>
-  <li>🕹️ Mini JS games like Snake, Tic-Tac-Toe & interactive widgets.</li>
-  <li>🤝 Always open for collaboration on cool projects.</li>
-</ul>
 
 ---
 
