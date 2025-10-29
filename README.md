@@ -1,31 +1,31 @@
 <!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14481d3f-4f6e-41c7-a76f-35e13f9ccc6d" alt="Salma Rami Logo" />
+  <img src="https://github.com/user-attachments/assets/14481d3f-4f6e-41c7-a76f-35e13f9ccc6d" alt="Salma Rami Logo" width="160"/>
 </p>
 
 <h1 align="center" style="color:#00ffff; text-shadow:0 0 25px #00ffff, 0 0 50px #00ffff;">
-💫 Hey there, I’m <span style="color:#ff99ff;">Salma Rami</span> 👋
+✨ Hey there, I’m <span style="color:#ff99ff;">Salma Rami</span> 👋
 </h1>
-fffffffffffffffff
-<p align="center" style="color:#e0e0e0; font-size:17px; max-width:750px; margin:auto; line-height:1.7;">
+
+<p align="center" style="color:#dcdcdc; font-size:17px; max-width:750px; margin:auto; line-height:1.7;">
 I’m a <strong style="color:#00ffff; text-shadow:0 0 12px #00ffff;">Full Stack Web Developer</strong>  
-who mixes <em>logic</em>, <em>design</em>, and a spark of <em>chaos</em> to craft elegant, interactive, and user-driven digital experiences.  
-Code is my paintbrush, and the browser is my canvas 🎨
+who fuses <em>logic</em>, <em>design</em>, and a dash of <em>chaos</em> to craft immersive and intuitive digital experiences.  
+Code is my art form, and the browser is my canvas 🎨
 </p>
 
-
+---
 
 <!-- 🌐 SOCIAL LINKS -->
 <h2 align="center" style="color:#00ffff; text-shadow:0 0 15px #00ffff;">
 🌐 Connect with Me
 </h2>
 
-<p align="center" style="margin: 20px 0;">
+<p align="center" style="margin: 25px 0;">
   <a href="https://www.linkedin.com/in/salma-rami-55a11a349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
   </a>
   <a href="mailto:ramisalma185@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="38"/>
@@ -46,7 +46,7 @@ Code is my paintbrush, and the browser is my canvas 🎨
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,php,laravel,nodejs,express,python,java,cpp,c,mysql,mongodb,git,github,vscode,docker,linux,figma,canva,postman&perline=9" />
 </p>
 
-
+---
 
 <!-- 📊 GITHUB STATS -->
 <h2 align="center" style="color:#00ffff; text-shadow:0 0 15px #00ffff;">
@@ -66,11 +66,11 @@ Code is my paintbrush, and the browser is my canvas 🎨
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisalma&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-
 ---
 
+<!-- ❤️ FOOTER -->
 <p align="center" style="color:#ff99ff; text-shadow:0 0 10px #ff00ff; margin-top:30px;">
-Made with ❤️ by <strong>Salma Rami</strong>
+Made with <span style="color:#ff66cc;">❤</span> by <strong>Salma Rami</strong>
 </p>
 
 <p align="center">
@@ -80,4 +80,3 @@ Made with ❤️ by <strong>Salma Rami</strong>
     alt="snake animation"
   />
 </p>
-
