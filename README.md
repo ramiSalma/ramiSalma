@@ -4,13 +4,13 @@
 </p>
 
 <h1 align="center" style="color:#00ffff; text-shadow:0 0 25px #00ffff, 0 0 50px #00ffff;">
-✨ Hey there, I’m <span style="color:#ff99ff;">Salma Rami</span> 👋
+💫 Hey there, I’m <span style="color:#ff99ff;">Salma Rami</span> 👋
 </h1>
 
 <p align="center" style="color:#dcdcdc; font-size:17px; max-width:750px; margin:auto; line-height:1.7;">
-I’m a <strong style="color:#00ffff; text-shadow:0 0 12px #00ffff;">Full Stack Web Developer</strong>  
-who fuses <em>logic</em>, <em>design</em>, and a dash of <em>chaos</em> to craft immersive and intuitive digital experiences.  
-Code is my art form, and the browser is my canvas 🎨
+I’m a <strong style="color:#00ffff;">Full Stack Web Developer</strong>  
+who blends <em>logic</em>, <em>art</em>, and a spark of <em>chaos</em> to build delightful digital experiences.  
+Code is my art form, and the browser is my universe 🌙
 </p>
 
 ---
@@ -42,7 +42,7 @@ Code is my art form, and the browser is my canvas 🎨
 ⚙️ Languages & Tools
 </h2>
 
-<p align="center" style="margin:20px 0;">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,php,laravel,nodejs,express,python,java,cpp,c,mysql,mongodb,git,github,vscode,docker,linux,figma,canva,postman&perline=9" />
 </p>
 
@@ -64,9 +64,9 @@ Code is my art form, and the browser is my canvas 🎨
 
 ---
 
-<!-- 🌀 LANGUAGE DISTRIBUTION -->
+<!-- 🌀 LANGUAGES GRAPHS -->
 <h2 align="center" style="color:#ff00ff; text-shadow:0 0 20px #ff00ff;">
-🌀 Languages Used (Circular Graph)
+🌀 Languages Overview
 </h2>
 
 <p align="center">
@@ -74,17 +74,42 @@ Code is my art form, and the browser is my canvas 🎨
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramisalma&theme=tokyonight" height="180" alt="Languages by Commit"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisalma&layout=pie&theme=tokyonight" height="230" alt="Pie Chart of Languages"/>
+</p>
+
 ---
 
-<!-- ❤️ FOOTER -->
-<p align="center" style="color:#ff99ff; text-shadow:0 0 10px #ff00ff; margin-top:30px;">
-Made with <span style="color:#ff66cc;">❤</span> by <strong>Salma Rami</strong>
+<!-- 🧠 DEV INSIGHTS -->
+<h2 align="center" style="color:#00ffff; text-shadow:0 0 20px #00ffff;">
+🧠 Developer Insights
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramisalma&theme=tokyonight" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ffff&color_dots=#444444,#888888,#aaaaaa,#00ffff,#00ffcc"
-    width="100%"
-    alt="snake animation"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramisalma&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies"/>
+</p>
+
+---
+
+<!-- 🔮 FUN TOUCH -->
+<h2 align="center" style="color:#ff99ff; text-shadow:0 0 15px #ff66ff;">
+🔮 Code Universe Visual
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramisalma/ramisalma/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=20&fontAlignY=35" width="100%" alt="Footer Wave"/>
+</p>
+
+---
+
+<p align="center" style="color:#ff99ff; text-shadow:0 0 10px #ff00ff; margin-top:30px;">
+Made with <span style="color:#ff66cc;">❤</span> by <strong>Salma Rami</strong>
 </p>
