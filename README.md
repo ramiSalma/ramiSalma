@@ -62,8 +62,16 @@ Code is my art form, and the browser is my canvas 🎨
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramisalma&theme=tokyo-night&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
+---
+
+<!-- 🌀 LANGUAGE DISTRIBUTION -->
+<h2 align="center" style="color:#ff00ff; text-shadow:0 0 20px #ff00ff;">
+🌀 Languages Used (Circular Graph)
+</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisalma&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramisalma&theme=tokyonight" height="180" alt="Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramisalma&theme=tokyonight" height="180" alt="Languages by Commit"/>
 </p>
 
 ---
