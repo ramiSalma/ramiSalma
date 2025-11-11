@@ -42,7 +42,7 @@ Code is my paintbrush, and the browser is my canvas 🎨
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,php,laravel,nodejs,express,python,java,cpp,c,mysql,mongodb,git,github,vscode,docker,linux,figma,canva,postman&perline=9" />
 </p>
 
----
+
 
 <!-- 📊 GITHUB STATS -->
 <h2 align="center" style="color:#00ffff; text-shadow:0 0 15px #00ffff;">
