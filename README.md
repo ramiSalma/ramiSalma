@@ -32,7 +32,6 @@ Code is my paintbrush, and the browser is my canvas 🎨
   </a>
 </p>
 
----
 
 <!-- ⚙️ TECH STACK -->
 <h2 align="center" style="color:#ff00ff; text-shadow:0 0 20px #ff00ff;">
