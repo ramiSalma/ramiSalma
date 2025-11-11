@@ -12,6 +12,10 @@ who blends <em>logic</em>, <em>design</em>, and a spark of <em>chaos</em> to cra
 Code is my paintbrush, and the browser is my canvas 🎨
 </p>
 
+
+
+
+
 <!-- 🌐 SOCIAL LINKS -->
 <h2 align="center" style="color:#00ffff; text-shadow:0 0 15px #00ffff;">
 🌐 Connect with Me
