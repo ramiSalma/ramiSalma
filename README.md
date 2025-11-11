@@ -81,10 +81,7 @@ Code is my paintbrush, and the browser is my canvas 🎨
 
 ---
 
-<!-- 🌙 FOOTER -->
-<p align="center" style="color:#ff99ff; text-shadow:0 0 10px #ff00ff; margin-top:30px;">
-Made with ❤️ by <strong>Salma Rami</strong>
-</p>
+
 
 <p align="center">
   <img
