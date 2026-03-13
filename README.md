@@ -1,100 +1,149 @@
-<!-- 🌌 HEADER -->
+<!-- TERMINAL HEADER -->
+<div align="center">
+
+```
+  ____        _                  ____               _ 
+ / ___|  __ _| |_ __ ___   __ _|  _ \ __ _ _ __ _(_)
+ \___ \ / _` | | '_ ` _ \ / _` | |_) / _` | '_ ` _ \
+  ___) | (_| | | | | | | | (_| |  _ < (_| | | | | | |
+ |____/ \__,_|_|_| |_| |_|\__,_|_| \_\__,_|_| |_| |_|
+```
+
+</div>
+
+---
+
+```bash
+~/salma-rami $ cat whoami.md
+```
+
+```yaml
+Name:      Salma Rami
+Role:      Full Stack Web Developer
+Motto:     "Code is my paintbrush, the browser is my canvas 🎨"
+Location:  🌍 Morocco
+Status:    ● Open to opportunities
+```
+
+---
+
+```bash
+~/salma-rami $ ls skills/ --grouped
+```
+
+**[Frontend]**
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
+
+**[Backend]**
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
+**[Databases & DevOps]**
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+
+**[Design & Tools]**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+```bash
+~/salma-rami $ gh api /users/ramisalma --stats
+```
+
 <p align="center">
-  <!-- <img src="https://github.com/user-attachments/assets/14481d3f-4f6e-41c7-a76f-35e13f9ccc6d" alt="Salma Rami Logo" /> -->
-</p>
-
-
-
-
-
-
-
-
-
-<h1 align="center" style="color:#00ffff; text-shadow:0 0 25px #00ffff, 0 0 50px #00ffff;">
-💫 Hey there, I’m <span style="color:#ff99ff;">Salma Rami</span> 👋
-</h1>
-<p align="center" style="color:#e0e0e0; font-size:17px; max-width:750px; margin:auto; line-height:1.7;">
-I’m a <strong style="color:#00ffff; text-shadow:0 0 12px #00ffff;">Full Stack Web Developer</strong>  
-who blends <em>logic</em>, <em>design</em>, and a spark of <em>chaos</em> to craft interactive and artistic digital experiences.  
-Code is my paintbrush, and the browser is my canvas 🎨
-</p>
-
-
-
-
-
-<!-- 🌐 SOCIAL LINKS -->
-<h2 align="center" style="color:#00ffff; text-shadow:0 0 15px #00ffff;">
-🌐 Connect with Me
-</h2>
-
-<p align="center" style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/salma-rami-55a11a349" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
-  </a>
-  <a href="mailto:ramisalma185@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="38"/>
-  </a>
-  <a href="https://codepen.io" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" height="38"/>
-  </a>
-</p>
-
-
-<!-- ⚙️ TECH STACK -->
-<h2 align="center" style="color:#ff00ff; text-shadow:0 0 20px #ff00ff;">
-⚙️ Languages & Tools
-</h2>
-
-<p align="center" style="margin:20px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,php,laravel,nodejs,express,python,java,cpp,c,mysql,mongodb,git,github,vscode,docker,linux,figma,canva,postman&perline=9" />
-</p>
-
-
-
-<!-- 📊 GITHUB STATS -->
-<h2 align="center" style="color:#00ffff; text-shadow:0 0 15px #00ffff;">
-📊 GitHub Stats & Activity
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramisalma&show_icons=true&theme=tokyonight&hide_border=true&icon_color=#00ffff&title_color=#ff99ff" height="170" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=ramisalma&theme=tokyonight&hide_border=true&ring=#00ffff&fire=#ff99ff&currStreakLabel=#ff99ff" height="170" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramisalma&bg_color=0d1117&color=00ffff&line=ff99ff&point=00ffff&area_color=ff99ff&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramisalma&show_icons=true&theme=github_dark&hide_border=true&icon_color=79c0ff&title_color=3fb950&text_color=c9d1d9&bg_color=0d1117" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ramisalma&theme=github-dark&hide_border=true&ring=58a6ff&fire=3fb950&currStreakLabel=3fb950&background=0D1117&sideLabels=c9d1d9" height="170" alt="Streak Stats"/>
 </p>
 
 ---
 
-<!-- 🧠 LANGUAGES PIE CHART -->
-<h2 align="center" style="color:#ff99ff; text-shadow:0 0 20px #ff99ff;">
-🧠 Languages Overview
-</h2>
+```bash
+~/salma-rami $ git log --graph --all --oneline | head -20
+```
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramisalma&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramisalma&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramisalma&theme=tokyonight&utcOffset=1" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramisalma&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramisalma&bg_color=0d1117&color=58a6ff&line=3fb950&point=79c0ff&area=true&area_color=3fb950&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
 
-
+```bash
+~/salma-rami $ gh profile summary --cards
+```
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ffff&color_dots=#222222,#444444,#888888,#00ffff,#ff99ff"
-    width="100%"
-    alt="snake animation"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramisalma&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramisalma&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramisalma&theme=github_dark&utcOffset=1" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramisalma&theme=github_dark" height="180"/>
+</p>
+
+---
+
+```bash
+~/salma-rami $ cat contact.json
+```
+
+```json
+{
+  "linkedin" : "linkedin.com/in/salma-rami-55a11a349",
+  "email"    : "ramisalma185@gmail.com",
+  "discord"  : "discord.com",
+  "codepen"  : "codepen.io"
+}
+```
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/salma-rami-55a11a349">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
+  </a>
+  <a href="mailto:ramisalma185@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" height="32"/>
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" height="32"/>
+  </a>
+  <a href="https://codepen.io">
+    <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=flat-square&logo=codepen&logoColor=white" height="32"/>
+  </a>
+</p>
+
+---
+
+```bash
+~/salma-rami $ python3 snake_contrib.py --render
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-building_cool_stuff-3fb950?style=flat-square&logo=github&logoColor=white"/>
 </p>
